@@ -1,0 +1,3 @@
+# This is requirements file, it lists all the dependencies for a Python project.
+
+openai==1.54.4
