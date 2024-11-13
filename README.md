@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 4. Add your API key to main.py:
 
-Open the main.py file and add your API key as shown below:
+- Open the main.py file and add your API key as shown below:
 
 ```
 client = OpenAI(
@@ -52,4 +52,4 @@ client = OpenAI(
 python main.py
 ```
 6. Check the Output:
-After running the program, check the [artykul.html](https://github.com/alosuri/article-website-task/blob/main/artykul.html) file for the generated article output.
+- After running the program, check the [artykul.html](https://github.com/alosuri/article-website-task/blob/main/artykul.html) file for the generated article output.
