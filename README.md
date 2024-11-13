@@ -51,3 +51,5 @@ client = OpenAI(
 ```
 python main.py
 ```
+6. Check the Output:
+After running the program, check the [artykul.html](https://github.com/alosuri/article-website-task/blob/main/artykul.html) file for the generated article output.
