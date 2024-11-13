@@ -2,7 +2,7 @@
 
 ![alt-text](https://github.com/alosuri/article-website-task/blob/main/screenshot.png)
 
-This Python program reads content from a text.txt file, sends it along with a prompt to the OpenAI API, and generates a new article. The output is a stylized HTML file with images.
+Program reads content from a text.txt file, sends it along with a prompt to the OpenAI API, and generates a new article. The output is a stylized HTML file with images placed in relevant sections.
 
 ## How to install and run
 
